@@ -1,5 +1,5 @@
 # 股票估值计算器
-![](./screenshot/image.png)
+![](./screenshot/image.jpg)
 
 ## 基础数据来源东方财富
 
